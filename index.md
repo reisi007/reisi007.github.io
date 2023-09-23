@@ -1,3 +1,3 @@
 ## Useful tools
 
-- [Create / manage / preview / test HTML email templates](https://app.postdrop.io/)
+- <a href="https://app.postdrop.io/" target="_blank">Create / manage / preview / test HTML email templates</a>
